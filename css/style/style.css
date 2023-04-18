@@ -1,0 +1,25 @@
+main {
+    color: #4672c4;
+}
+
+.woway-buton {
+    background-color: #203864;
+    color: white;
+
+}
+
+.woway-buton:hover {
+    background-color: #203864;
+    color: white;
+    transition: all;
+}
+
+.woway-btn-outline {
+    border: 1px solid #5174b4;
+    color: #5174b4;
+}
+
+.woway-btn-outline:hover {
+    border: 1px solid #5174b4;
+    color: #5174b4;
+}
